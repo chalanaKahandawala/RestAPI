@@ -5,7 +5,6 @@ This project contains automated tests for the RESTful API at https://restful-api
 ## Prerequisites
 
 - .NET SDK (latest version)
-- Internet connection
 
 ## Setup
 
